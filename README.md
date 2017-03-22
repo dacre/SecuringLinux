@@ -6,7 +6,7 @@ Filen är skriven i markdown som gör att det går att få text att se snygg ut 
 - Säkra upp vilka användare som kör vilka applikationer
 - Begränsa Root-access?
 - Säkra upp SSH
-- Öppna endast de portar som behövs
+- Confa brandvägg så endast de portar som behövs är tillgängliga från internet
 - Säkra upp NGinx eller Apache (eller möjligen annan server-applikationer?)
 - Kanske använda SELinux?  
 
