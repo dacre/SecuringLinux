@@ -2,7 +2,7 @@
 Det här projektet handlar om att försöka lära sig hur en kan säkra upp GNU/Linux (Debian?).
 Filen är skriven i markdown som gör att det går att få text att se snygg ut, men ändå enkelt att dela mellan sig. Mer om [markdown här](https://github.com/adam-p/markdown-here/wiki/Markdown-Here-Cheatsheet).
 
-# todo-lista
+# Todo-lista
 - Säkra upp vilka användare som kör vilka applikationer
 - Begränsa Root-access?
 - Säkra upp SSH
