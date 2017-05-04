@@ -12,6 +12,11 @@ Filen är skriven i markdown som gör att det går att få text att se snygg ut,
 
 - Något annat?
 
+# Verifiera installation
+- Ett script kan användas för att kontrollera om det är en säker SSH-server: [SSH-Audit](https://github.com/arthepsy/ssh-audit)
+- En tjänst för att kontunerligt testa en website [Detectify](https://detectify.com/what-is-detectify)
+
 # Länkar att kolla upp
 [SELinux och Debian](https://wiki.debian.org/SELinux)
+
 
