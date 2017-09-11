@@ -18,5 +18,6 @@ Filen är skriven i markdown som gör att det går att få text att se snygg ut,
 
 # Länkar att kolla upp
 [SELinux och Debian](https://wiki.debian.org/SELinux)
+[Secure RPI](https://makezine.com/2017/09/07/secure-your-raspberry-pi-against-attackers/)
 
 
